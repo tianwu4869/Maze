@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  glad.c
+  hw4.cpp
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(190): warning C4305: '=': truncation from 'double' to 'float'
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(222): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(223): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(225): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(226): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(234): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(235): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(236): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(237): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(238): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(285): warning C4305: '+=': truncation from 'double' to 'float'
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(375): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(382): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(383): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(384): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(390): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(391): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(392): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(666): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(667): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(668): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(811): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(818): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\courseware\graduate\csci 5607 fundamentals of computer graphics 1\assignment\assignment4\hw4\hw4\hw4.cpp(824): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     Creating library F:\Courseware\Graduate\CSCI 5607 Fundamentals of Computer Graphics 1\Assignment\Assignment4\hw4\Debug\hw4.lib and object F:\Courseware\Graduate\CSCI 5607 Fundamentals of Computer Graphics 1\Assignment\Assignment4\hw4\Debug\hw4.exp
+  hw4.vcxproj -> F:\Courseware\Graduate\CSCI 5607 Fundamentals of Computer Graphics 1\Assignment\Assignment4\hw4\Debug\hw4.exe
